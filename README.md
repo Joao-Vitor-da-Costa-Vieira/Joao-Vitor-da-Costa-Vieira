@@ -11,7 +11,7 @@ Antes de implementar, gosto de entender bem os requisitos da tarefa e elaborar u
 
 <div align="center">
 
-<h4>Tech Stack</h4>
+<h2>Tech Stack</h2>
 
 <div align="left">
 
